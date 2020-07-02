@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "Anonymous 7/2/2020 21:13",
+	"super" : "CompteEnBanque",
+	"category" : "POO4",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"carte",
+		"code"
+	],
+	"name" : "CompteCourant",
+	"type" : "normal"
+}

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "Anonymous 7/2/2020 21:12",
+	"super" : "Object",
+	"category" : "POO4",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nomClient",
+		"prenomClient",
+		"compteClient"
+	],
+	"name" : "Client",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"solde" : "",
+		"numero" : "",
+		"tauxInteret" : "",
+		"limite:" : "",
+		"limite" : "",
+		"tauxInteret:" : ""
+	},
+	"class" : { }
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "Anonymous 7/2/2020 21:16",
+	"super" : "Object",
+	"category" : "POO4",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lesClient",
+		"lesCompte"
+	],
+	"name" : "Banque",
+	"type" : "normal"
+}
